@@ -1,25 +1,3 @@
-# ReduxSimpleStarter
+# A simple Weather App Built using React Js and Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+My React weather app is fairly simple and makes use of a few outside components including React-Google-Maps and sparklines for generating the map and bar graphs that show a line through the average temperature, which is displayed beneath the charts showing how much above or below the average the next five days Temperature, pressure, and humidity will be. Put the name of your or any city in America to check the weather!
